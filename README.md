@@ -1,17 +1,39 @@
-# ete_quiz3
 
-A new Flutter application.
+Projeto da Disciplina PGIA 7310 - Fundamentos de Informática Aplicada UFRPE. 🧐
+# ETEquiz
+Aplicativo Educativo para apoio ao ensino da Escola Técnica Estadual Francisco Matos Sobrinho.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Sobre:
+Um  quiz das matérias do ensino Medio/Tecnico gamificando o aprendizado através de metas e rankings individuais e turmas. Com o objetivo de fomentar a cooperação e a competitividade podendo assim aumentar a motivação nos estudos e aproximar os alunos que estão em casa com os que frequentam as aulas. 📖
 
-A few resources to get you started if this is your first Flutter project:
+## Usar o projeto:
+Em breve versão beta sera disponibilizada para usuarios.
+Desenvolvedores podem: contrinbuir-modificar-atualizar e personalisar. 💻
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Contribui com o projeto:
+Educadores e alunos podem contribuir para o projeto com sujestões, Desenvoldores podem sugerir e enviar um pull request ao projeto.
+veja como em: [contribua](https://docs.github.com/pt/github/getting-started-with-github/fork-a-repo) 🖱️
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# ete_quiz
+## Informações
+
+*marquesmiranda.r@gmail.com* ✉️
+
+## Instalação (Dev):
+Para proceder com a instalação deste projeto para modificações será necessário: 🏁
+ 1. Instalar o SDK Flutter em sua versão mais atualizada;
+ 2. Ter um Editor de Texto ex.VSCode com as extensões Flutter e Dart Instaladas;
+ 3. Fazer o Download dos arquivos do repositório;
+
+Caso deseje via Git use o seguinte código:
+	https://github.com/RafaMarquesMiranda/ETEquiz.git
+	<p align ="center">
+	<img wigth="20" src="/qrcode_github.com.png">
+	</p>
+
+
+# Atualização
+Este repositório será atualizado conforme andamento e plano de mudanças do projeto.
+	Projeto em desenvolvimento ⚠️
+
+
