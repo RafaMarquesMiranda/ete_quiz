@@ -19,13 +19,8 @@ veja como em: [contribua](https://docs.github.com/pt/github/getting-started-with
 
 *marquesmiranda.r@gmail.com* ✉️
 
-## Instalação (Dev):
-Para proceder com a instalação deste projeto para modificações será necessário: 🏁
- 1. Instalar o SDK Flutter em sua versão mais atualizada;
- 2. Ter um Editor de Texto ex.VSCode com as extensões Flutter e Dart Instaladas;
- 3. Fazer o Download dos arquivos do repositório;
 
-Caso deseje via Git use o seguinte código:
+Caso deseje  Fazer o Download dos arquivos do repositório via Git use o seguinte link:
 	https://github.com/RafaMarquesMiranda/ETEquiz.git
 	<p align ="center">
 	<img wigth="20" src="/qrcode_github.com.png">
