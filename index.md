@@ -12,36 +12,36 @@ Sendo assim, conforme vamos construindo nosso aplicativo, compondo widgets uns a
 Wegt
 
 # Visão Geral
-<p align = center>
-    <img wigth = "100" src"/site/site0.png">
+<p align = "center">
+    <img wigth = "100" src"/site0.png">
 
 </p>
 
 #Login
-<p align = center>
-    <img wigth = "100" src"/site/site1.png">
+<p align = "center">
+    <img wigth = "100" src"/site1.png">
 
 </p>
 
 #Home
-<p align = center>
-    <img wigth = "100" src"/site/site2.png">
+<p align = "center">
+    <img wigth = "100" src"/site2.png">
 
 </p>
 
 #raking
-<p align = center>
-    <img wigth = "100" src"/site/site3.png">
+<p align = "center">
+    <img wigth = "100" src"/site3.png">
 
 </p>
 #Materias
-<p align = center>
-    <img wigth = "100" src"/site/site3.2.png">
+<p align = "center">
+    <img wigth = "100" src"/site3.2.png">
 
 #Quiz
 </p>
-<p align = center>
-    <img wigth = "100" src"/site/site5.png">
+<p align = "center">
+    <img wigth = "100" src"/site5.png">
 
 </p>
 
