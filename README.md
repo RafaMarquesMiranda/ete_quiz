@@ -26,12 +26,6 @@ Caso deseje  Fazer o Download dos arquivos do repositório via Git use o seguint
 	<img wigth="20" src="/qrcode_github.com.png">
 	</p>
 	
-<p align ="center">
-	<img wigth="20" src="\site0.png">
-	</p>
-
-
-
 # Atualização
 Este repositório será atualizado conforme andamento e plano de mudanças do projeto.
 	Projeto em desenvolvimento ⚠️
