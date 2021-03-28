@@ -18,7 +18,7 @@ Sendo assim, conforme vamos construindo nosso aplicativo, compondo widgets uns a
 
 #Login
 <p align = "center">
-    <img wigth = "100" src"https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site1.PNG">
+    <img src"https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site1.PNG">
 
 </p>
 
