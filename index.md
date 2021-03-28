@@ -13,7 +13,7 @@ Wegt
 
 # Visão Geral
 <p align = "center">
-    <img wigth = "100" src"/site0.png">
+    <img wigth = "100" src"\site0.png">
 
 </p>
 
@@ -25,7 +25,7 @@ Wegt
 
 #Home
 <p align = "center">
-    <img wigth = "100" src"/site2.png">
+    <img wigth = "100" src"/ph-pages/site2.png">
 
 </p>
 
