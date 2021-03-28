@@ -8,8 +8,7 @@ Sendo assim, conforme vamos construindo nosso aplicativo, compondo widgets uns a
 
  É VISÃO GERAL de nossa interface e represente o estado da nossa aplicação (que esta em desenvolvimento).
 
-```markdown
-Wegt
+
 
 # Visão Geral
 <p align = "center">
@@ -46,7 +45,7 @@ Wegt
 </p>
 
 
-```
+
 
 Detalhes veja [GitHub ](https://github.com/RafaMarquesMiranda/ete_quiz).
 
