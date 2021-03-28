@@ -27,7 +27,7 @@ Caso deseje  Fazer o Download dos arquivos do repositório via Git use o seguint
 	</p>
 	
 <p align ="center">
-	<img wigth="20" src="\ph-pages\site0.png">
+	<img wigth="20" src="\site0.png">
 	</p>
 
 
