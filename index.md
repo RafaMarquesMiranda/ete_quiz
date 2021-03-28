@@ -12,7 +12,7 @@ Sendo assim, conforme vamos construindo nosso aplicativo, compondo widgets uns a
 
 # Visão Geral
 <p align = "center">
-    <img wigth = "100" src"gh-pages/site0.PNG">
+    <img wigth = "100" src"/site0.PNG">
 
 </p>
 
