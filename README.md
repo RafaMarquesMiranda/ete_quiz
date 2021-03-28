@@ -26,7 +26,7 @@ Caso deseje  Fazer o Download dos arquivos do repositório via Git use o seguint
 	<img wigth="20" src="/qrcode_github.com.png">
 	</p>
 	
-	<p align ="center">
+<p align ="center">
 	<img wigth="20" src="/ph-pages/site0.png">
 	</p>
 
