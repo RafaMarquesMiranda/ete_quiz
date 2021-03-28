@@ -13,35 +13,35 @@ Wegt
 
 # Visão Geral
 <p align = "center">
-    <img wigth = "100" src"\site0.png">
+    <img wigth = "100" src"https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site0.PNG">
 
 </p>
 
 #Login
 <p align = "center">
-    <img wigth = "100" src"/site1.png">
+    <img wigth = "100" src"https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site1.PNG">
 
 </p>
 
 #Home
 <p align = "center">
-    <img wigth = "100" src"/ph-pages/site2.png">
+    <img wigth = "100" src"https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site2.PNG">
 
 </p>
 
 #raking
 <p align = "center">
-    <img wigth = "100" src"/site3.png">
+    <img wigth = "100" src"https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site3.PNG">
 
 </p>
 #Materias
 <p align = "center">
-    <img wigth = "100" src"/site3.2.png">
+    <img wigth = "100" src"https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site3.2.PNGg">
 
 #Quiz
 </p>
 <p align = "center">
-    <img wigth = "100" src"/site5.png">
+    <img wigth = "100" src"https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site5.PNG">
 
 </p>
 
