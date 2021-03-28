@@ -8,7 +8,9 @@ Sendo assim, conforme vamos construindo nosso aplicativo, compondo widgets uns a
 
  É VISÃO GERAL de nossa interface e represente o estado da nossa aplicação (que esta em desenvolvimento).
 
-
+<p align ="center">
+	<img wigth="20" src="/qrcode_github.com.png">
+	</p>
 
 # Visão Geral
 <p align = "center">
