@@ -7,6 +7,10 @@ Sendo assim, conforme vamos construindo nosso aplicativo, compondo widgets uns a
 ### Widget Tree
 
  É VISÃO GERAL de nossa interface e represente o estado da nossa aplicação (que esta em desenvolvimento).
+ 
+ <p align ="center">
+	<img wigth="20" src="/site0.PN">
+	</p>
 
 <p align = "center">
     <img wigth = "100" src"/site0.PNG">
