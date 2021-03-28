@@ -9,7 +9,7 @@ Sendo assim, conforme vamos construindo nosso aplicativo, compondo widgets uns a
  É VISÃO GERAL de nossa interface e represente o estado da nossa aplicação (que esta em desenvolvimento).
  
  <p align ="center">
-	<img wigth="20" src="https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site1.PNG">
+	<img wigth="20" src="\site1.PNG">
 	</p>
 
 <p align = "center">
