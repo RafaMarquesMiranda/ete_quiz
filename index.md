@@ -8,7 +8,7 @@ Sendo assim, conforme vamos construindo nosso aplicativo, compondo widgets uns a
 
  É VISÃO GERAL de nossa interface e represente o estado da nossa aplicação (que esta em desenvolvimento).
 
-<img wigth="20" src="\ph-pages\site1.PNG">
+![visão geral](\site1.PNG)
 	
 
 
