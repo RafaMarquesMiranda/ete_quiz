@@ -16,19 +16,19 @@ Sendo assim, conforme vamos construindo nosso aplicativo, compondo widgets uns a
 
 ![Login](https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site1.png?raw=true)
 
-### Home ______________________________________________________________________________
+### Home 
 
 ![Home](https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site2.png?raw=true)
 
-### Materias ______________________________________________________________________________
+### Materia
 
 ![Home](https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site3.png?raw=true)
 
-### Ranking ______________________________________________________________________________
+### Ranking 
 
 ![Home](https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site3.2png.png?raw=true)
 
-### Quiz ______________________________________________________________________________
+### Quiz 
 
 ![Home](https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site5.png?raw=true)
 
