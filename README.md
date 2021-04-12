@@ -1,6 +1,6 @@
 
 Projeto da Disciplina PGIA 7310 - Fundamentos de Informática Aplicada UFRPE. 🧐
-# ETEquiz
+# ETEquiz <p align ="left"><img wigth="20" src="/qrcode_github.com.png"></p>
 Aplicativo Educativo para apoio ao ensino da Escola Técnica Estadual Francisco Matos Sobrinho.
 
 
@@ -12,7 +12,7 @@ Em breve versão beta sera disponibilizada para usuarios.
 Desenvolvedores podem: contrinbuir-modificar-atualizar e personalisar. 💻
 
 ## Contribui com o projeto:
-Educadores e alunos podem contribuir para o projeto com sujestões, Desenvoldores podem sugerir e enviar um pull request ao projeto.
+Educadores e alunos podem contribuir para o projeto com sujestões, desenvoldores podem sugerir e enviar um pull request ao projeto.
 veja como em: [contribua](https://docs.github.com/pt/github/getting-started-with-github/fork-a-repo) 🖱️
 
 ## Informações
@@ -28,7 +28,7 @@ veja como em: [contribua](https://docs.github.com/pt/github/getting-started-with
 
 Caso deseje  Fazer o Download dos arquivos do repositório via Git use o seguinte link:
 	https://github.com/RafaMarquesMiranda/ETEquiz.git
-	<p align ="center">
+	<p align ="left">
 	<img wigth="20" src="/qrcode_github.com.png">
 	</p>
 	
