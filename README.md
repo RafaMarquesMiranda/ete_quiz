@@ -24,8 +24,10 @@ veja como em: [contribua](https://docs.github.com/pt/github/getting-started-with
 [Arvore de Widgets](https://rafamarquesmiranda.github.io/ete_quiz/)
 	
 	
-
-
+## Arvore de Widgets
+<p align ="left">
+<img wigth="20" src="/navegacao.png">
+</p>
 Caso deseje  Fazer o Download dos arquivos do repositório via Git use o seguinte link:
 	https://github.com/RafaMarquesMiranda/ETEquiz.git
 	<p align ="left">
