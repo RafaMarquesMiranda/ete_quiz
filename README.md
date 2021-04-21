@@ -21,10 +21,10 @@ veja como em: [contribua](https://docs.github.com/pt/github/getting-started-with
 
 ## Arvore de Widgets
 
-[Arvore de Widgets](https://rafamarquesmiranda.github.io/ete_quiz/)
+[Link para Arvore de Widgets](https://rafamarquesmiranda.github.io/ete_quiz/)
 	
 	
-## Arvore de Widgets
+## Diagrama de navegacao da telas
 <p align ="left">
 <img wigth="20" src="/navegacao.png">
 </p>
