@@ -5,7 +5,7 @@ Projeto da Disciplina PGIA 7310 - Fundamentos de Informática Aplicada UFRPE. �
 
 
 ## Sobre:
-Um  quiz das matérias do ensino Medio/Tecnico gamificando o aprendizado através de um quiz das materias com um rankings da potuanção dos alunos . Com o objetivo de fomentar a cooperação e a competitividade podendo assim aumentar a motivação nos estudos e aproximar os alunos que estão em casa com os que frequentam as aulas. 📖
+Um  quiz das matérias do ensino Medio/Tecnico gamificando o aprendizado através de um quiz das materias de português e matematica preparando os alunos para olipiadas estaduais dessas matérias. Com o objetivo de fomentar a cooperação e a competitividade podendo assim aumentar a motivação nos estudos e aproximar os alunos que estão em casa com os que frequentam as aulas. 📖
 
 ## Usar o projeto:
 Em breve versão beta sera disponibilizada para usuarios.
