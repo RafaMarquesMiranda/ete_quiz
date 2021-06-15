@@ -26,7 +26,7 @@ veja como em: [contribua](https://docs.github.com/pt/github/getting-started-with
 	
 ## Diagrama de navegacao da telas
 <p align ="left">
-<img wigth="20" src="/navegacao.png">
+	<img wigth ="20" src="/navegacao1.png">
 </p>
 Caso deseje  Fazer o Download dos arquivos do repositório via Git use o seguinte link:
 	https://github.com/RafaMarquesMiranda/ETEquiz.git
