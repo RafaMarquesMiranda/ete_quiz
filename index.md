@@ -10,7 +10,7 @@ Sendo assim, conforme vamos construindo nosso aplicativo, compondo widgets uns a
 
 # Visão Geral
 
-![visão geral](https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site0.PNG?raw=true)
+![visão geral](https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/visao.png?raw=true)
 
 ### Login
 
