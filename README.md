@@ -2,6 +2,7 @@
 Projeto da Disciplina PGIA 7310 - Fundamentos de Informática Aplicada UFRPE. 🧐
 # ETEquiz Aplicativo Educativo para apoio ao ensino da Escola Técnica Estadual Francisco Matos Sobrinho.<p align ="left"><img wigth="20" src="/logo7.png"></p>
 
+Esse aplicativo é desenvolvido em Flutter/Dart, com suporte (até o momento) para dispositivos Android, com backend rodando no Firebase. 
 
 
 ## Sobre:
