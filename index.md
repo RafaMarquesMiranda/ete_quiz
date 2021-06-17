@@ -12,21 +12,18 @@ Sendo assim, conforme vamos construindo nosso aplicativo, compondo widgets uns a
 
 ![visão geral](https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/visao.png?raw=true)
 
-### Login
-
+###  Perfil
 ![Login](https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site1.PNG?raw=true)
 
-### Home 
-
+###  Quiz
 ![Home](https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site2.PNG?raw=true)
-###  hOME
-![Home](https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site3.?raw=true)
-
-### Ranking 
+###  Home
+![Home](https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site3.PNG?raw=true)
+### Cadastro
 
 ![Home](https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site3.2png.PNG?raw=true)
 
-### Quiz 
+### Login
 
 ![Home](https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site5.PNG?raw=true)
 
