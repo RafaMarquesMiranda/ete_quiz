@@ -17,8 +17,10 @@ Sendo assim, conforme vamos construindo nosso aplicativo, compondo widgets uns a
 
 ###  Quiz
 ![Home](https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site2.PNG?raw=true)
+
 ###  Home
 ![Home](https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site3.PNG?raw=true)
+
 ### Cadastro
 
 ![Home](https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site3.2png.PNG?raw=true)
