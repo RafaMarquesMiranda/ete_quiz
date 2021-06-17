@@ -5,10 +5,10 @@ Projeto da Disciplina PGIA 7310 - Fundamentos de Informática Aplicada UFRPE. �
 Esse aplicativo é desenvolvido em Flutter/Dart, com suporte (até o momento) para dispositivos Android, com backend rodando no Firebase. 
 
 
-## Sobre:
-Um questionário das matérias do ensino Medio / Técnico gamificando o através de um questionário das materias de português e matematica quimica, fisica etc. Com o objetivo de fomentar a cooperação e as técnicas podendo assim aumentar a motivação nos estudos e aproximar os alunos que estão em casa com os que frequentam as aulas 📖.
+## Sobre
+Um questionário das matérias do ensino Medio / Técnico gamificando o através de um Quiz das materias de português e matematica quimica, fisica etc. Com o objetivo de fomentar a cooperação e as técnicas podendo assim aumentar a motivação nos estudos e aproximar os alunos que estão em casa com os que frequentam as aulas �
 
-## Usar o projeto:
+## Usar o projeto
 Em breve versão beta sera disponibilizada para usuarios.
 Desenvolvedores podem: contrinbuir-modificar-atualizar e personalisar. 💻
 
