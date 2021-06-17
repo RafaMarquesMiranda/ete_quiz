@@ -14,23 +14,21 @@ Sendo assim, conforme vamos construindo nosso aplicativo, compondo widgets uns a
 
 ### Login
 
-![Login](https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site1.png?raw=true)
+![Login](https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site1.PNG?raw=true)
 
 ### Home 
 
-![Home](https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site2.png?raw=true)
-
-### Materia
-
-![Home](https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site3.png?raw=true)
+![Home](https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site2.PNG?raw=true)
+###  hOME
+![Home](https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site3.?raw=true)
 
 ### Ranking 
 
-![Home](https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site3.2png.png?raw=true)
+![Home](https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site3.2png.PNG?raw=true)
 
 ### Quiz 
 
-![Home](https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site5.png?raw=true)
+![Home](https://github.com/RafaMarquesMiranda/ete_quiz/blob/gh-pages/site5.PNG?raw=true)
 
 Para mais detalhes veja em [GitHub ](https://github.com/RafaMarquesMiranda/ete_quiz).
 
