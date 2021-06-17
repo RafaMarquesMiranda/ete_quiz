@@ -6,7 +6,7 @@ Esse aplicativo é desenvolvido em Flutter/Dart, com suporte (até o momento) pa
 
 
 ## Sobre:
-Um  quiz das matérias do ensino Medio/Tecnico gamificando o aprendizado através de um quiz das materias de português e matematica preparando os alunos para olipiadas estaduais dessas matérias. Com o objetivo de fomentar a cooperação e a competitividade podendo assim aumentar a motivação nos estudos e aproximar os alunos que estão em casa com os que frequentam as aulas. 📖
+Um questionário das matérias do ensino Medio / Técnico gamificando o através de um questionário das materias de português e matematica quimica, fisica etc. Com o objetivo de fomentar a cooperação e as técnicas podendo assim aumentar a motivação nos estudos e aproximar os alunos que estão em casa com os que frequentam as aulas 📖.
 
 ## Usar o projeto:
 Em breve versão beta sera disponibilizada para usuarios.
