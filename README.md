@@ -37,7 +37,7 @@ Caso deseje  Fazer o Download dos arquivos do repositório via Git use o seguint
 	
 #  Videos
 ## Marketing 
- [![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/PmKHI-MCKHU?t=7 "Everything Is AWESOME")
+ [![Everything Is AWESOME]https://i9.ytimg.com/vi/PmKHI-MCKHU/mqdefault.jpg?v=60d09c72&sqp=COC2woYG&rs=AOn4CLABnyX3uo3Hm3mfv5Cl8Cvk2E9G6A)](https://youtu.be/PmKHI-MCKHU?t=7 "Everything Is AWESOME")
 Este repositório será atualizado conforme andamento e plano de mudanças do projeto[Wdget Tree](https://rafamarquesmiranda.github.io/ete_quiz/).
 	Projeto em desenvolvimento ⚠️
 
