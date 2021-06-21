@@ -35,7 +35,9 @@ Caso deseje  Fazer o Download dos arquivos do repositório via Git use o seguint
 	<img wigth="20" src="/qrcode_github.com.png">
 	</p>
 	
-# Atualização
+#  Videos
+## Marketing 
+ [![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
 Este repositório será atualizado conforme andamento e plano de mudanças do projeto[Wdget Tree](https://rafamarquesmiranda.github.io/ete_quiz/).
 	Projeto em desenvolvimento ⚠️
 
