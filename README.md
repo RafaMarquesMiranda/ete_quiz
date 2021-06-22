@@ -42,6 +42,6 @@ Caso deseje  Fazer o Download dos arquivos do repositório via Git use o seguint
  
  #
 Este repositório será atualizado conforme andamento e plano de mudanças do projeto[Wdget Tree](https://rafamarquesmiranda.github.io/ete_quiz/).
-	Projeto em desenvolvimento ⚠️
+	
 
 
