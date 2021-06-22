@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1068873897889",
+    "project_id": "ete-quiz",
+    "storage_bucket": "ete-quiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068873897889:android:5a535698d4fd5abf159de0",
+        "android_client_info": {
+          "package_name": "com.rafamarquesmiranda.ete_quiz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068873897889-4e46fkdc2n7ehfabbqner2fblger85le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTqVWfUBYEc7o91J-LAxVnkebckvgMT6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068873897889-4e46fkdc2n7ehfabbqner2fblger85le.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,5 +1,8 @@
-name: ete_quiz3
-description: A new Flutter application.
+name: ete_quiz_app
+description: Um quiz das mat�rias do ensino Medio/Tecnico gamificando o aprendizado atrav�s de um
+  quiz das materias de portugu�s e matematica preparando os alunos para olipiadas estaduais
+  dessas mat�rias. Com o objetivo de fomentar a coopera��o e a competitividade podendo assim aumentar
+  a motiva��o nos estudos e aproximar os alunos que est�o em casa com os que frequentam as aulas
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
@@ -15,7 +18,7 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 # In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
 # Read more about iOS versioning at
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
-version: 1.0.0+1
+version: 1.0.0+7
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
@@ -23,6 +26,17 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  cached_network_image : ^2.0.0
+  cloud_firestore: ^0.13.3
+  firebase_auth: ^0.15.2
+  provider : ^3.2.0
+  shared_preferences: ^0.5.3+3
+  random_string: ^2.0.1
+  firebase_core: ^ 0.4.5
+  firebase_analytics: ^ 5.0.2
+  firebase_storage: ^3.0.1
+
+
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -48,6 +62,10 @@ flutter:
   # assets:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
+  assets:
+    - imagens/
+    - android/settings.gradle
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
